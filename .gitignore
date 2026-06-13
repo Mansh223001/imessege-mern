@@ -1,0 +1,10 @@
+# Backend
+Backend/node_modules
+Backend/.env
+
+# Frontend
+Frontend/vite-project/node_modules
+Frontend/vite-project/dist
+
+# Common
+.env
